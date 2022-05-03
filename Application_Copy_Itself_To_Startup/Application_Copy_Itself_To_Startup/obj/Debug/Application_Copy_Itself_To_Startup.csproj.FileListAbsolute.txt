@@ -1,0 +1,10 @@
+C:\Users\ygzat\source\repos\C#\Application_Copy_Itself_To_Startup\Application_Copy_Itself_To_Startup\bin\Debug\Application_Copy_Itself_To_Startup.exe.config
+C:\Users\ygzat\source\repos\C#\Application_Copy_Itself_To_Startup\Application_Copy_Itself_To_Startup\bin\Debug\Application_Copy_Itself_To_Startup.exe
+C:\Users\ygzat\source\repos\C#\Application_Copy_Itself_To_Startup\Application_Copy_Itself_To_Startup\bin\Debug\Application_Copy_Itself_To_Startup.pdb
+C:\Users\ygzat\source\repos\C#\Application_Copy_Itself_To_Startup\Application_Copy_Itself_To_Startup\obj\Debug\Application_Copy_Itself_To_Startup.csproj.AssemblyReference.cache
+C:\Users\ygzat\source\repos\C#\Application_Copy_Itself_To_Startup\Application_Copy_Itself_To_Startup\obj\Debug\Application_Copy_Itself_To_Startup.Form1.resources
+C:\Users\ygzat\source\repos\C#\Application_Copy_Itself_To_Startup\Application_Copy_Itself_To_Startup\obj\Debug\Application_Copy_Itself_To_Startup.Properties.Resources.resources
+C:\Users\ygzat\source\repos\C#\Application_Copy_Itself_To_Startup\Application_Copy_Itself_To_Startup\obj\Debug\Application_Copy_Itself_To_Startup.csproj.GenerateResource.cache
+C:\Users\ygzat\source\repos\C#\Application_Copy_Itself_To_Startup\Application_Copy_Itself_To_Startup\obj\Debug\Application_Copy_Itself_To_Startup.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\source\repos\C#\Application_Copy_Itself_To_Startup\Application_Copy_Itself_To_Startup\obj\Debug\Application_Copy_Itself_To_Startup.exe
+C:\Users\ygzat\source\repos\C#\Application_Copy_Itself_To_Startup\Application_Copy_Itself_To_Startup\obj\Debug\Application_Copy_Itself_To_Startup.pdb
